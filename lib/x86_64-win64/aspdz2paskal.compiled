@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1325662982"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\Ivan\Desktop\Fakultet\ASP\Drugi domaći\lib\x86_64-win64&quot; &quot;-FuC:\Users\Ivan\Desktop\Fakultet\ASP\Drugi domaći\&quot; &quot;-FUC:\Users\Ivan\Desktop\Fakultet\ASP\Drugi domaći\lib\x86_64-win64\&quot; &quot;-FEC:\Users\Ivan\Desktop\Fakultet\ASP\Drugi domaći\&quot; &quot;-oC:\Users\Ivan\Desktop\Fakultet\ASP\Drugi domaći\aspdz2paskal.exe&quot; aspdz2paskal.lpr"/>
-  <Complete Value="False"/>
-</CONFIG>
